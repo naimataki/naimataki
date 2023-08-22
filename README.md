@@ -22,7 +22,7 @@
     <a href="https://github.com/naimataki">
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=naimataki&theme=midnight-purple&show_icons=true"
+        src="https://github-readme-stats.vercel.app/api?username=naimataki&theme=midnight-purple"
       />
     </a>
   <a href="https://github.com/naimataki">
@@ -37,7 +37,7 @@
 <a href="https://github.com/naimataki">
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimataki&show_icons=true&langs_count=8&count_private=true&layout=compact&theme=midnight-purple"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimataki&theme=midnight-purple&line_height=40&hide=css"
       />
  </a>
  </p>
