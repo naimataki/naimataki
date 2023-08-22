@@ -28,7 +28,7 @@
   <a href="https://github.com/naimataki">
       <img
         align="center"
-        src="http://github-readme-streak-stats.herokuapp.com?user=naimataki&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF8964&ring=FFCB2B"
+        src="http://github-readme-streak-stats.herokuapp.com?user=naimataki&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&fire=FF8964&ring=FFCB2B"
       />
  </a>
 </p>
