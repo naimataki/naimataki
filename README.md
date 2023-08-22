@@ -22,13 +22,13 @@
     <a href="https://github.com/naimataki">
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=naimataki&theme=midnight-purple"
+        src="https://github-readme-stats.vercel.app/api?username=naimataki&theme=midnight-purple&hide_border=true"
       />
     </a>
   <a href="https://github.com/naimataki">
       <img
         align="center"
-        src="http://github-readme-streak-stats.herokuapp.com?user=naimataki&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&fire=FF8964&ring=FFCB2B"
+        src="http://github-readme-streak-stats.herokuapp.com?user=naimataki&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&fire=FF8964&ring=FFCB2B&hide_border=true"
       />
  </a>
 </p>
@@ -37,7 +37,7 @@
 <a href="https://github.com/naimataki">
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimataki&theme=midnight-purple&line_height=40&hide=css"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimataki&theme=midnight-purple&line_height=40&hide=css&hide_border=true"
       />
  </a>
  </p>
