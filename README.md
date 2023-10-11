@@ -29,7 +29,6 @@
       <img
         align="center"
         src="http://github-readme-streak-stats.herokuapp.com?user=naimataki&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&fire=FF8964&ring=FFCB2B&hide_border=true"
-        alt="Naima's Top Languages
       />
  </a>
 </p>
@@ -39,6 +38,7 @@
       <img
         align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimataki&theme=midnight-purple&line_height=40&hide=css&hide_border=true&layout=compact"
+        alt="Naima's Top Languages"
       />
  </a>
  </p>
