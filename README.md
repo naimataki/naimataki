@@ -1,6 +1,6 @@
 <h1 align="center">Hi folks 👋, I'm Naima 😊👩‍💼</h1>
   
-<h3 align="center">An aspiring data scientist from Morocco 🤖📊🇲🇦</h3>
+<h3 align="center">A Machine Learning Engineer from Morocco 🤖📊🇲🇦</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif?cid=790b7611rs7ehiume1k770z04jnkh93rx60t84i3n2wdq4rh&rid=200.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimataki&label=Profile%20views&color=0e75b6&style=flat" alt="naimataki" /> </p>
