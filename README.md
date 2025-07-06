@@ -1,7 +1,7 @@
 # 🌟 Hey there, I'm Naima! 
 
 <div align="center">
-  <h2>🤖 Aspiring Machine Learning Scientist 🧠| 📊 Data Enthusiast | 💡 Problem Solver</h2>
+  <h2>🤖 Aspiring Machine Learning Scientist 🧠 | 📊 Data Enthusiast | 💡 Problem Solver</h2>
   <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif?cid=790b7611rs7ehiume1k770z04jnkh93rx60t84i3n2wdq4rh&rid=200.gif&ct=g" alt="AI Animation" width="400" />
 </div>
 
@@ -54,10 +54,10 @@ me.say_hi()
   <a href="https://kaggle.com/naimatakiouti" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-3C3C3C?style=for-the-badge&logo=kaggle&logoColor=FF6F3C" alt="Kaggle"/>
   </a>
-  <a href="https://fiverr.com/your_fiverr_username" target="_blank">
+  <a href="https://fiverr.com/naimatakiouti" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-3C3C3C?style=for-the-badge&logo=fiverr&logoColor=FF6F3C" alt="Fiverr"/>
   </a>
-  <a href="https://twitter.com/your_x_username" target="_blank">
+  <a href="https://x.com/itsnaima101" target="_blank">
     <img src="https://img.shields.io/badge/X-3C3C3C?style=for-the-badge&logo=x&logoColor=FF6F3C" alt="X"/>
   </a>
 </div>
@@ -67,6 +67,18 @@ me.say_hi()
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=naimataki&label=Profile%20Views&color=FF6F3C&style=for-the-badge" alt="Profile Views" />
 </div>
+
+## 💼 Need ML/Data Science Services?
+
+<div align="center">
+  <a href="https://fiverr.com/your_fiverr_username" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Check%20Out%20My%20Gigs-3C3C3C?style=for-the-badge&logo=fiverr&logoColor=FF6F3C" alt="Fiverr Services"/>
+  </a>
+</div>
+
+<p align="center">
+  <em>From data analysis to machine learning models - I offer professional ML and data science services!</em>
+</p>
 
 ## 📊 GitHub Analytics
 
