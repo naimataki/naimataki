@@ -15,7 +15,7 @@ class NaimaTakiouti:
         self.role = "Aspiring ML Scientist"
         self.location = "Morocco 🇲🇦"
         self.passions = ["AI", "Data Science", "Machine Learning"]
-        self.currently_learning = ["Deep Learning", "MLOps", "Computer Vision"]
+        self.currently_learning = ["Deep Learning", "MLOps", "Generative AI"]
         self.fun_fact = "I turn coffee into code and data into insights! ☕→💻"
     
     def say_hi(self):
@@ -55,10 +55,10 @@ me.say_hi()
   <a href="https://kaggle.com/naimatakiouti" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-4B4B4B?style=for-the-badge&logo=kaggle&logoColor=FF6F3C" alt="Kaggle"/>
   </a>
-  <a href="https://fiverr.com/your_fiverr_username" target="_blank">
+  <a href="https://www.fiverr.com/naimatakiouti" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-4B4B4B?style=for-the-badge&logo=fiverr&logoColor=FF6F3C" alt="Fiverr"/>
   </a>
-  <a href="https://twitter.com/your_x_username" target="_blank">
+  <a href="https://x.com/itsnaima101" target="_blank">
     <img src="https://img.shields.io/badge/X-4B4B4B?style=for-the-badge&logo=x&logoColor=FF6F3C" alt="X"/>
   </a>
 </div>
