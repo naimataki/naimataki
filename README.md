@@ -71,7 +71,7 @@ me.say_hi()
 ## 💼 Need ML/Data Science Services?
 
 <div align="center">
-  <a href="https://fiverr.com/your_fiverr_username" target="_blank">
+  <a href="https://fiverr.com/naimatakiouti" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Check%20Out%20My%20Gigs-3C3C3C?style=for-the-badge&logo=fiverr&logoColor=FF6F3C" alt="Fiverr Services"/>
   </a>
 </div>
