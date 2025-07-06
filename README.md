@@ -14,7 +14,7 @@ class NaimaTakiouti:
         self.role = "Aspiring ML Scientist"
         self.location = "Morocco 🇲🇦"
         self.passions = ["AI", "Data Science", "Machine Learning"]
-        self.currently_learning = ["Deep Learning", "MLOps", "Computer Vision"]
+        self.currently_learning = ["Deep Learning", "MLOps", "Generative AI"]
         self.fun_fact = "I turn coffee into code and data into insights! ☕→💻"
     
     def say_hi(self):
@@ -49,7 +49,7 @@ me.say_hi()
 
 <div align="center">
   <a href="https://linkedin.com/in/naima-takiouti" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-3C3C3C?style=for-the-badge&logo=linkedin&logoColor=FF6F3C&labelColor=3C3C3C" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-3C3C3C?style=for-the-badge&logo=linkedin-in&logoColor=FF6F3C" alt="LinkedIn"/>
   </a>
   <a href="https://kaggle.com/naimatakiouti" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-3C3C3C?style=for-the-badge&logo=kaggle&logoColor=FF6F3C" alt="Kaggle"/>
@@ -91,7 +91,7 @@ me.say_hi()
 - 🧠 I believe AI will revolutionize how we solve complex problems
 - 📚 Always learning something new in the ML space
 - 🎨 I love making data beautiful and insights actionable
-- 🌍 Passionate about using AI for social good
+- 🌍 Passionate about using AI for scientific discoveries
 
 ---
 
