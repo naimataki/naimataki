@@ -1,10 +1,9 @@
 # 🌟 Hey there, I'm Naima! 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Scientist+🤖;Data+Enthusiast+📊;AI+Researcher+🧠;Problem+Solver+💡&font=Fira%20Code&center=true&width=440&height=45&color=FF6F3C&size=22">
+  <h2>🤖 Aspiring Machine Learning Scientist 🧠| 📊 Data Enthusiast | 💡 Problem Solver</h2>
+  <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif?cid=790b7611rs7ehiume1k770z04jnkh93rx60t84i3n2wdq4rh&rid=200.gif&ct=g" alt="AI Animation" width="400" />
 </div>
-
-<img align="right" alt="AI Animation" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif?cid=790b7611rs7ehiume1k770z04jnkh93rx60t84i3n2wdq4rh&rid=200.gif&ct=g" />
 
 ## 🚀 About Me
 
@@ -15,7 +14,7 @@ class NaimaTakiouti:
         self.role = "Aspiring ML Scientist"
         self.location = "Morocco 🇲🇦"
         self.passions = ["AI", "Data Science", "Machine Learning"]
-        self.currently_learning = ["Deep Learning", "MLOps", "Generative AI"]
+        self.currently_learning = ["Deep Learning", "MLOps", "Computer Vision"]
         self.fun_fact = "I turn coffee into code and data into insights! ☕→💻"
     
     def say_hi(self):
@@ -30,19 +29,19 @@ me.say_hi()
 <div align="center">
 
 ### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-4B4B4B?style=for-the-badge&logo=python&logoColor=FF6F3C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-4B4B4B?style=for-the-badge&logo=tensorflow&logoColor=FF6F3C)
-![PyTorch](https://img.shields.io/badge/PyTorch-4B4B4B?style=for-the-badge&logo=pytorch&logoColor=FF6F3C)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-4B4B4B?style=for-the-badge&logo=scikit-learn&logoColor=FF6F3C)
-![Pandas](https://img.shields.io/badge/Pandas-4B4B4B?style=for-the-badge&logo=pandas&logoColor=FF6F3C)
-![NumPy](https://img.shields.io/badge/NumPy-4B4B4B?style=for-the-badge&logo=numpy&logoColor=FF6F3C)
+![Python](https://img.shields.io/badge/Python-353535?style=for-the-badge&logo=python&logoColor=FF6F3C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-353535?style=for-the-badge&logo=tensorflow&logoColor=FF6F3C)
+![PyTorch](https://img.shields.io/badge/PyTorch-353535?style=for-the-badge&logo=pytorch&logoColor=FF6F3C)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-353535?style=for-the-badge&logo=scikit-learn&logoColor=FF6F3C)
+![Pandas](https://img.shields.io/badge/Pandas-353535?style=for-the-badge&logo=pandas&logoColor=FF6F3C)
+![NumPy](https://img.shields.io/badge/NumPy-353535?style=for-the-badge&logo=numpy&logoColor=FF6F3C)
 
 ### Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-4B4B4B?style=for-the-badge&logo=jupyter&logoColor=FF6F3C)
-![Git](https://img.shields.io/badge/Git-4B4B4B?style=for-the-badge&logo=git&logoColor=FF6F3C)
-![Docker](https://img.shields.io/badge/Docker-4B4B4B?style=for-the-badge&logo=docker&logoColor=FF6F3C)
-![AWS](https://img.shields.io/badge/AWS-4B4B4B?style=for-the-badge&logo=amazonaws&logoColor=FF6F3C)
-![Linux](https://img.shields.io/badge/Linux-4B4B4B?style=for-the-badge&logo=linux&logoColor=FF6F3C)
+![Jupyter](https://img.shields.io/badge/Jupyter-353535?style=for-the-badge&logo=jupyter&logoColor=FF6F3C)
+![Git](https://img.shields.io/badge/Git-353535?style=for-the-badge&logo=git&logoColor=FF6F3C)
+![Docker](https://img.shields.io/badge/Docker-353535?style=for-the-badge&logo=docker&logoColor=FF6F3C)
+![AWS](https://img.shields.io/badge/AWS-353535?style=for-the-badge&logo=amazonaws&logoColor=FF6F3C)
+![Linux](https://img.shields.io/badge/Linux-353535?style=for-the-badge&logo=linux&logoColor=FF6F3C)
 
 </div>
 
@@ -50,16 +49,16 @@ me.say_hi()
 
 <div align="center">
   <a href="https://linkedin.com/in/naima-takiouti" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4B4B4B?style=for-the-badge&logo=linkedin&logoColor=FF6F3C" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-353535?style=for-the-badge&logo=linkedin&logoColor=FF6F3C" alt="LinkedIn"/>
   </a>
   <a href="https://kaggle.com/naimatakiouti" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-4B4B4B?style=for-the-badge&logo=kaggle&logoColor=FF6F3C" alt="Kaggle"/>
+    <img src="https://img.shields.io/badge/Kaggle-353535?style=for-the-badge&logo=kaggle&logoColor=FF6F3C" alt="Kaggle"/>
   </a>
-  <a href="https://www.fiverr.com/naimatakiouti" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-4B4B4B?style=for-the-badge&logo=fiverr&logoColor=FF6F3C" alt="Fiverr"/>
+  <a href="https://fiverr.com/your_fiverr_username" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-353535?style=for-the-badge&logo=fiverr&logoColor=FF6F3C" alt="Fiverr"/>
   </a>
-  <a href="https://x.com/itsnaima101" target="_blank">
-    <img src="https://img.shields.io/badge/X-4B4B4B?style=for-the-badge&logo=x&logoColor=FF6F3C" alt="X"/>
+  <a href="https://twitter.com/your_x_username" target="_blank">
+    <img src="https://img.shields.io/badge/X-353535?style=for-the-badge&logo=x&logoColor=FF6F3C" alt="X"/>
   </a>
 </div>
 
@@ -72,12 +71,12 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naimataki&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF6F3C&text_color=4B4B4B&icon_color=FF6F3C&border_color=FF6F3C&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimataki&layout=compact&theme=dark&bg_color=0D1117&title_color=FF6F3C&text_color=4B4B4B&border_color=FF6F3C&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naimataki&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF6F3C&text_color=353535&icon_color=FF6F3C&border_color=FF6F3C&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimataki&layout=compact&theme=dark&bg_color=0D1117&title_color=FF6F3C&text_color=353535&border_color=FF6F3C&hide_border=false"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=naimataki&theme=dark&background=0D1117&stroke=FF6F3C&ring=FF6F3C&fire=FF6F3C&currStreakLabel=FF6F3C&sideLabels=4B4B4B&currStreakNum=FF6F3C&dates=4B4B4B&sideNums=FF6F3C&border=FF6F3C" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=naimataki&theme=dark&background=0D1117&stroke=FF6F3C&ring=FF6F3C&fire=FF6F3C&currStreakLabel=FF6F3C&sideLabels=353535&currStreakNum=FF6F3C&dates=353535&sideNums=FF6F3C&border=FF6F3C" alt="GitHub Streak"/>
 </div>
 
 ## 🎯 Current Focus
@@ -97,7 +96,8 @@ me.say_hi()
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting!+✨;Let's+build+the+future+together!+🚀;Feel+free+to+reach+out!+💬&font=Fira%20Code&center=true&width=440&height=45&color=FF6F3C&size=18">
+  <h3>🚀 Thanks for visiting! Let's build the future together! ✨</h3>
+  <p><em>Feel free to reach out - I'm always excited to collaborate on amazing projects!</em></p>
 </div>
 
 <div align="center">
