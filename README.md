@@ -1,3 +1,4 @@
+```markdown
 # 🌟 Hey there, I'm Naima! 
 
 <div align="center">
@@ -29,19 +30,19 @@ me.say_hi()
 <div align="center">
 
 ### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3C3C3C?style=for-the-badge&logo=python&logoColor=FF6F3C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-3C3C3C?style=for-the-badge&logo=tensorflow&logoColor=FF6F3C)
-![PyTorch](https://img.shields.io/badge/PyTorch-3C3C3C?style=for-the-badge&logo=pytorch&logoColor=FF6F3C)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-3C3C3C?style=for-the-badge&logo=scikit-learn&logoColor=FF6F3C)
-![Pandas](https://img.shields.io/badge/Pandas-3C3C3C?style=for-the-badge&logo=pandas&logoColor=FF6F3C)
-![NumPy](https://img.shields.io/badge/NumPy-3C3C3C?style=for-the-badge&logo=numpy&logoColor=FF6F3C)
+![Python](https://img.shields.io/badge/Python-2D1B3D?style=for-the-badge&logo=python&logoColor=00FFFF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2D1B3D?style=for-the-badge&logo=tensorflow&logoColor=FF6B9D)
+![PyTorch](https://img.shields.io/badge/PyTorch-2D1B3D?style=for-the-badge&logo=pytorch&logoColor=00FFFF)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-2D1B3D?style=for-the-badge&logo=scikit-learn&logoColor=FF6B9D)
+![Pandas](https://img.shields.io/badge/Pandas-2D1B3D?style=for-the-badge&logo=pandas&logoColor=00FFFF)
+![NumPy](https://img.shields.io/badge/NumPy-2D1B3D?style=for-the-badge&logo=numpy&logoColor=FF6B9D)
 
 ### Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-3C3C3C?style=for-the-badge&logo=jupyter&logoColor=FF6F3C)
-![Git](https://img.shields.io/badge/Git-3C3C3C?style=for-the-badge&logo=git&logoColor=FF6F3C)
-![Docker](https://img.shields.io/badge/Docker-3C3C3C?style=for-the-badge&logo=docker&logoColor=FF6F3C)
-![AWS](https://img.shields.io/badge/AWS-3C3C3C?style=for-the-badge&logo=amazonaws&logoColor=FF6F3C)
-![Linux](https://img.shields.io/badge/Linux-3C3C3C?style=for-the-badge&logo=linux&logoColor=FF6F3C)
+![Jupyter](https://img.shields.io/badge/Jupyter-1A0F2E?style=for-the-badge&logo=jupyter&logoColor=00FFFF)
+![Git](https://img.shields.io/badge/Git-1A0F2E?style=for-the-badge&logo=git&logoColor=FF6B9D)
+![Docker](https://img.shields.io/badge/Docker-1A0F2E?style=for-the-badge&logo=docker&logoColor=00FFFF)
+![AWS](https://img.shields.io/badge/AWS-1A0F2E?style=for-the-badge&logo=amazonaws&logoColor=FF6B9D)
+![Linux](https://img.shields.io/badge/Linux-1A0F2E?style=for-the-badge&logo=linux&logoColor=00FFFF)
 
 </div>
 
@@ -49,30 +50,31 @@ me.say_hi()
 
 <div align="center">
   <a href="https://linkedin.com/in/naima-takiouti" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-3C3C3C?style=for-the-badge&logo=linkedin-in&logoColor=FF6F3C" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-2D1B3D?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn"/>
   </a>
   <a href="https://kaggle.com/naimatakiouti" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-3C3C3C?style=for-the-badge&logo=kaggle&logoColor=FF6F3C" alt="Kaggle"/>
+    <img src="https://img.shields.io/badge/Kaggle-2D1B3D?style=for-the-badge&logo=kaggle&logoColor=FF6B9D" alt="Kaggle"/>
+  </a>
   </a>
   <a href="https://fiverr.com/naimatakiouti" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-3C3C3C?style=for-the-badge&logo=fiverr&logoColor=FF6F3C" alt="Fiverr"/>
+    <img src="https://img.shields.io/badge/Fiverr-2D1B3D?style=for-the-badge&logo=fiverr&logoColor=00FFFF" alt="Fiverr"/>
   </a>
   <a href="https://x.com/itsnaima101" target="_blank">
-    <img src="https://img.shields.io/badge/X-3C3C3C?style=for-the-badge&logo=x&logoColor=FF6F3C" alt="X"/>
+    <img src="https://img.shields.io/badge/X-2D1B3D?style=for-the-badge&logo=x&logoColor=FF6B9D" alt="X"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=naimataki&label=Profile%20Views&color=FF6F3C&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=naimataki&label=Profile%20Views&color=FF6B9D&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ## 💼 Need ML/Data Science Services?
 
 <div align="center">
   <a href="https://fiverr.com/naimatakiouti" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Check%20Out%20My%20Gigs-3C3C3C?style=for-the-badge&logo=fiverr&logoColor=FF6F3C" alt="Fiverr Services"/>
+    <img src="https://img.shields.io/badge/🚀%20Check%20Out%20My%20Gigs-FF6B9D?style=for-the-badge&logoColor=FFFFFF" alt="Fiverr Services"/>
   </a>
 </div>
 
@@ -83,12 +85,12 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naimataki&show_icons=true&theme=dark&bg_color=3C3C3C&title_color=FF6F3C&text_color=FFFFFF&icon_color=FF6F3C&border_color=FF6F3C&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimataki&layout=compact&theme=dark&bg_color=3C3C3C&title_color=FF6F3C&text_color=FFFFFF&border_color=FF6F3C&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naimataki&show_icons=true&theme=dark&bg_color=1A0F2E&title_color=FF6B9D&text_color=FFFFFF&icon_color=00FFFF&border_color=2D1B3D&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimataki&layout=compact&theme=dark&bg_color=1A0F2E&title_color=FF6B9D&text_color=FFFFFF&border_color=2D1B3D&hide_border=false"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=naimataki&theme=dark&background=3C3C3C&stroke=FF6F3C&ring=FF6F3C&fire=FF6F3C&currStreakLabel=FF6F3C&sideLabels=FFFFFF&currStreakNum=FF6F3C&dates=FFFFFF&sideNums=FF6F3C&border=FF6F3C" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=naimataki&theme=dark&background=1A0F2E&stroke=FF6B9D&ring=FF6B9D&fire=00FFFF&currStreakLabel=FF6B9D&sideLabels=FFFFFF&currStreakNum=00FFFF&dates=FFFFFF&sideNums=FF6B9D&border=2D1B3D" alt="GitHub Streak"/>
 </div>
 
 ## 🎯 Current Focus
@@ -108,6 +110,7 @@ me.say_hi()
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=100&section=footer&text=&fontSize=0" width="100%"/>
   <h3>🚀 Thanks for visiting! Let's build the future together! ✨</h3>
   <p><em>Feel free to reach out - I'm always excited to collaborate on amazing projects!</em></p>
 </div>
