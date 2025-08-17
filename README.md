@@ -109,7 +109,7 @@ me.say_hi()
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=100&section=footer&text=&fontSize=0&animation=twinkling&fontAlignY=35&desc=&descAlignY=51&descAlign=62&colors=FF6B9D,E659A0,D043A3,BA2EA6,A419A9,8E04AC,7800A0,620094,4C0088,36007C,200070,0A0064" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,1&height=100&section=footer&text=&fontSize=0&colors=2D1B3D,00FFFF&reversal=false" width="100%"/>
   <h3>🚀 Thanks for visiting! Let's build the future together! ✨</h3>
   <p><em>Feel free to reach out - I'm always excited to collaborate on amazing projects!</em></p>
 </div>
