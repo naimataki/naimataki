@@ -1,4 +1,3 @@
-```markdown
 # 🌟 Hey there, I'm Naima! 
 
 <div align="center">
